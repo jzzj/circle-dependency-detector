@@ -1,0 +1,24 @@
+{
+  "name": "circle-dependency-detector",
+  "version": "1.0.0",
+  "description": "Detect circle dependency anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzzj/circle-dependency-detector.git"
+  },
+  "keywords": [
+    "circle-dependency",
+    "dependency",
+    "detector"
+  ],
+  "author": "zangzhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzzj/circle-dependency-detector/issues"
+  },
+  "homepage": "https://github.com/jzzj/circle-dependency-detector#readme"
+}
